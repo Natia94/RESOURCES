@@ -10,4 +10,12 @@
 (Ignore the fact that he uses Eclipe instead of Android Studio)
 * [Android](https://www.youtube.com/watch?v=hzrGAZnMOMQ&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa&index=1 "youtube page")
 
+## Scrum Agile Methodology
 
+* [Youtube video](https://www.youtube.com/watch?v=LGeDZmrWwsw)
+* [Agile_Article](http://agilemanifesto.org/)
+* [Agile_methodology_youtube](https://www.youtube.com/watch?v=OJflDE6OaSc)
+
+* [Article_Scrum_1](http://scrummethodology.com)
+* [Article_Scrum_2](https://www.scrumalliance.org/why-scrum)
+ 
