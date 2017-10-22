@@ -22,6 +22,7 @@
 ## Intro to JAVA Programming tutorials
 
 * [JAVA courses for beginners by MIT](https://www.youtube.com/watch?v=oqnLQVFaqYI&list=PLXqaWKDQpdPn4UJ2fOFxl6Yl_DC51FFUL&index=1)
+* [Java programing examples on Data-Structures](http://www.sanfoundry.com/java-programming-examples-data-structures/)
 
 ## ARTICLES 
  
